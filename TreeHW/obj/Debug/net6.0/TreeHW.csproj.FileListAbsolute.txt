@@ -1,0 +1,15 @@
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.csproj.AssemblyReference.cache
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.GeneratedMSBuildEditorConfig.editorconfig
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.AssemblyInfoInputs.cache
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.AssemblyInfo.cs
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.csproj.CoreCompileInputs.cache
+F:\света\Home work 3\TreeHW\bin\Debug\net6.0\TreeHW.exe
+F:\света\Home work 3\TreeHW\bin\Debug\net6.0\TreeHW.deps.json
+F:\света\Home work 3\TreeHW\bin\Debug\net6.0\TreeHW.runtimeconfig.json
+F:\света\Home work 3\TreeHW\bin\Debug\net6.0\TreeHW.dll
+F:\света\Home work 3\TreeHW\bin\Debug\net6.0\TreeHW.pdb
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.dll
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\refint\TreeHW.dll
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.pdb
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\TreeHW.genruntimeconfig.cache
+F:\света\Home work 3\TreeHW\obj\Debug\net6.0\ref\TreeHW.dll
