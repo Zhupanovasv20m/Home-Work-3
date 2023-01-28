@@ -1,0 +1,15 @@
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.csproj.AssemblyReference.cache
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.GeneratedMSBuildEditorConfig.editorconfig
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.AssemblyInfoInputs.cache
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.AssemblyInfo.cs
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.csproj.CoreCompileInputs.cache
+F:\света\Home work 3\TwoHW\bin\Debug\net6.0\TwoHW.exe
+F:\света\Home work 3\TwoHW\bin\Debug\net6.0\TwoHW.deps.json
+F:\света\Home work 3\TwoHW\bin\Debug\net6.0\TwoHW.runtimeconfig.json
+F:\света\Home work 3\TwoHW\bin\Debug\net6.0\TwoHW.dll
+F:\света\Home work 3\TwoHW\bin\Debug\net6.0\TwoHW.pdb
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.dll
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\refint\TwoHW.dll
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.pdb
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\TwoHW.genruntimeconfig.cache
+F:\света\Home work 3\TwoHW\obj\Debug\net6.0\ref\TwoHW.dll
